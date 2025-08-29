@@ -1,0 +1,8 @@
+# Ignore uploaded files
+*.pdf
+
+# Ignore FAISS index
+faiss_index/
+
+# Ignore environment/config files
+.env
