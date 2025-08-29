@@ -12,5 +12,5 @@ It helps analyze **medical reports (PDFs)** and answer user questions using a Re
 ## ⚙️ Setup Instructions
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YourUsername/Health-Assistant.git
+   git clone https://github.com/Tushargarg09/Health-Assistant.git
    cd Health-Assistant
